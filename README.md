@@ -1,5 +1,7 @@
 LandScape - A simple method to aggregate p values without a priori grouping
 
+Paper: https://www.ncbi.nlm.nih.gov/pubmed/27269897
+
 For help on how to run the program run the command: python landscape.py --help
 
 If plink files are used as input, the package https://github.com/ymer/Plink is required.
